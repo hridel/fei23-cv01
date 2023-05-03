@@ -53,3 +53,7 @@
 
 ## Cvičení 11
 * https://github.com/hridel/fei23-cv11-p1
+
+## Cvičení 12
+* https://github.com/hridel/fei23-cv12-p1
+* https://github.com/hridel/fei23-cv12-p2
